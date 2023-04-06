@@ -8,10 +8,6 @@ Apuntes del curso https://www.notion.so/Complejidad-algor-tmica-con-Python-44114
   <h1>Programación orientada a objetos y Algoritmos con Python</h1>
 </div>
 
-<div align="center"> 
-  <img src="readme_img/python.png" width="250">
-</div>
-
 Primero damos un repaso a POO
 
 ## Programación orientada a objetos en Python
